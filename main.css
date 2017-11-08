@@ -8,7 +8,7 @@ html, body {
 
 body {
   font-family: 'Lato', sans-serif;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg');
+  background-image: url('https://imgur.com/a/bixB2');
   background-position: center top;
   background-size: cover;
   margin: 0;
@@ -44,46 +44,6 @@ a {
 
 .gallery-item .thumbnail {
   border: 5px solid #fff;
-}
-
-/* FOOTER NAVIGATION */
-
-nav {
-  background-color: #FFF;
-}
-
-nav li {
-  display: inline;
-  margin: 0;
-  padding: 0 10px;
-}
-
-nav ul {
-  display: inline;
-}
-
-.contact-btn {
-  float: right;
-}
-
-.contact-btn a {
-  cursor: pointer;
-  margin-right: 30px;
-  padding: 8px 18px;
-  border: 1px solid #204156;
-  position: relative;
-
-}
-
-.contact-btn a:active {
-	top: 2px;
-}
-
-nav a {
-  height: 60px;
-  line-height: 60px;
-  color: #204156;
-  text-decoration: none;
 }
 
 
